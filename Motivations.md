@@ -1,6 +1,6 @@
 - # I have to say that I'll be more comfortable doing it in french
-- #Attention, bien parler ne signifie pas juste beaucoup parlé, il faut aussi savoir modéré ton temps de parole pour ne pas trop prendre de l'espace.
-- #Néanmoins dis toi que plus l'entretien est long, plus c'est bon signe et tu as des chances d'être pris. Donc parle du maximum de points pertinents possibles
+- # Attention, bien parler ne signifie pas juste beaucoup parlé, il faut aussi savoir modéré ton temps de parole pour ne pas trop prendre de l'espace.
+- # Néanmoins dis toi que plus l'entretien est long, plus c'est bon signe et tu as des chances d'être pris. Donc parle du maximum de points pertinents possibles
  - # Au premier semestre de cette année, en réalité tu étais 18ème/28, avec une moyenne de 12.20, ce qui est l'équivalent d'être le dernier dans les 2/3, ce qui n'est pas si mal que sa. 
  - # Au premier semestre de la 2ème, tu étais 12ème/29, avec une moyenne de 12.73, ce qui est l'équivalent d'être dans le 1/2, puis ta moyenne a chuté de pile 1 point pour se retrouver à 11,73. L'année tu as eu une moyenne de 12.23.
  - # Au premier semestre de la 1ère, tu étais 4ème/32, avec une moyenne de 13.32, puis ta moyenne a chuté de plus de 2 points pour se retrouver à 11,19. L'année tu as eu une moyenne de 12.26.
@@ -33,11 +33,20 @@ Chez qui tu as postulé Voir page du 1er mai de ton carnet pour l'expliquer.
  - Apprentissage avec Cayrol : réseaux bayésiens, fonctons de croyances
  - IA et recherche opérationnelle avec Mme Lagasquie :
    - compleité algorithmique, complexité des problèmes (p, np-difficiles, machine de turing),espaces d'états, méthodes complète (meilleures d'abord, glouton, A*), méthodes incomplètes (hill climbing, steepest, tabou) 
- - CSP avec Muller
+ - CSP avec Muller: backtrack et forwark checking [voir](https://trello.com/c/jrBh6uqQ/83-résumé-csp)
 
 ### Points forts
 
+J'ai de bonnes notes dans les matières plutôt calculatoires. 
+ - estimation stochatique
+ - filtrage particulaire
+ - filtre de kaalman
+ - commande référencée vision
+ 
+
 ### Points faibles
+
+J'ai des notes plus basses quand il s'agit de faire de la programmation. Vu que je viens d'une filère où l'informatique n'était pas notre matière principale mais où l'on manipulait lus d'outils mathématiques. C'était comme sa en EEA, et arrivée à l'UPSSITECH, il s'est mis à avoir plus d'informatiques et j'ai mis du temps à m'habituer. Le seul problème pour moi c'est qu'il me faut beaucoup de temps pour m'habituer à un langage et pendant ces semestes, ce temps, je ne me le suis pas forcément accordé. D'où mes notes
 
 # Tes précédents projets :
 
@@ -124,4 +133,4 @@ Il y a toujours très peu de diversité de questions alors que lon a souvent ré
 ##Parler du module THRAS où tu as eu une bonne note
 Il s'agit d'un travail de recherche bibliogrpahique où il fau analyser un article scientifique
 
-#Je serai prêt à faire le meilleur semestre que j'ai fait de toute mon existence et consacrer le temps qu'il faudra pour réaliser le travail demander pour cette thèse.et je suis complètement motivé de voyager.
+#Je serai prêt à faire le meilleur semestre que j'ai fait de toute mon existence et consacrer le temps qu'il faudra pour réaliser le travail demander pour cette thèse.et je suis complètement motivé de voyager.   

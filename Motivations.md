@@ -1,9 +1,10 @@
-- # I have to say that I'll be more comfortable doing it in french
+- # Do you want to proceed in english?I have to say that I'll be more comfortable doing it in french
 - # Attention, bien parler ne signifie pas juste beaucoup parlé, il faut aussi savoir modéré ton temps de parole pour ne pas trop prendre de l'espace.
 - # Néanmoins dis toi que plus l'entretien est long, plus c'est bon signe et tu as des chances d'être pris. Donc parle du maximum de points pertinents possibles
  - # Au premier semestre de cette année, en réalité tu étais 18ème/28, avec une moyenne de 12.20, ce qui est l'équivalent d'être le dernier dans les 2/3, ce qui n'est pas si mal que sa. 
  - # Au premier semestre de la 2ème, tu étais 12ème/29, avec une moyenne de 12.73, ce qui est l'équivalent d'être dans le 1/2, puis ta moyenne a chuté de pile 1 point pour se retrouver à 11,73. L'année tu as eu une moyenne de 12.23.
  - # Au premier semestre de la 1ère, tu étais 4ème/32, avec une moyenne de 13.32, puis ta moyenne a chuté de plus de 2 points pour se retrouver à 11,19. L'année tu as eu une moyenne de 12.26.
+ - # Ne pas leur dire à quel point tu as préparé cet entretien
 
 #Pourquoi une thèse
 
@@ -48,6 +49,8 @@ J'ai de bonnes notes dans les matières plutôt calculatoires.
 
 J'ai des notes plus basses quand il s'agit de faire de la programmation. Vu que je viens d'une filère où l'informatique n'était pas notre matière principale mais où l'on manipulait lus d'outils mathématiques. C'était comme sa en EEA, et arrivée à l'UPSSITECH, il s'est mis à avoir plus d'informatiques et j'ai mis du temps à m'habituer. Le seul problème pour moi c'est qu'il me faut beaucoup de temps pour m'habituer à un langage et pendant ces semestes, ce temps, je ne me le suis pas forcément accordé. D'où mes notes
 
+Je pense que je n'ai pas réussi à avoir les notes que l'on pourrait s'imaginer pourquelqu'un à qui cela intéresse atant parce que j'ai dû sous estimer ces matière ce qui a fait que je ne me suis pas rendu compte que je ne le maîtrisais pas suffisamment ce qui ne m'a pas fait remmettre en question et ne m'a pas poussé à demander de ll'aide aux professeurs.
+
 # Tes précédents projets :
 
 ## 1ASRI
@@ -64,7 +67,7 @@ J'ai des notes plus basses quand il s'agit de faire de la programmation. Vu que 
 #Ce que tu as fait pendant tes stages
 
 ### Stage chez DIOTA
-Tu as lu pas mal de biblio pour ce stage. Surtout sur la partie vision
+Tu as lu pas mal de biblio pour ce stage. Surtout sur la partie visionpour se renseigner sur les features de textures.
 
 ###Stage au Luxembourg
 
@@ -117,6 +120,10 @@ S'inscrit t-elle dans un projet européens, un test grandeur nature sera-t-il, s
 
 ##ta méthode de travail
 
+Je suis quelqu'un qui aime bien comprendre ce qu'il, je n'hésite pas à chercher sur internet chaque fois je souhaite comprendre quelque chose. Je vais sur wikipedia quand il s'agit d'informations générales dont la véracité n'est pas trop critique et quand je souhaite avoir une information dont j'ai besoin d'être sûr du degré de véracité, je vais sois aller consulter dans la bibliographie la source à l'origine de l'article wikipédia soit directement chercher des articles correspondant moi-même.
+
+Je travaille à mon rythme. Je ne suis pas efficace mais je suis endurant, je peux travailler très longtemps sans pause et travailler autnt qu'il le faut juqu'à ce que je juges mon travail terminé. J'ai appris à aimer travailler en équipe ce qui n'était pas le cas auparavant.
+
 #La raison pour laquelle tu as choisi leur thèse
 
 Je suis quelqu'un qui adore apprendre, lire, et écrire. 
@@ -133,4 +140,4 @@ Il y a toujours très peu de diversité de questions alors que lon a souvent ré
 ##Parler du module THRAS où tu as eu une bonne note
 Il s'agit d'un travail de recherche bibliogrpahique où il fau analyser un article scientifique
 
-#Je serai prêt à faire le meilleur semestre que j'ai fait de toute mon existence et consacrer le temps qu'il faudra pour réaliser le travail demander pour cette thèse.et je suis complètement motivé de voyager.   
+#Je serai prêt à faire le meilleur semestre que j'ai fait de toute mon existence et consacrer le temps qu'il faudra pour réaliser le travail demander pour cette thèse.et je suis complètement motivé de voyager. 

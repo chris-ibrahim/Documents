@@ -8,7 +8,9 @@ This article [On Distinguishing Epistemic from Pragmatic Action](https://onlinel
 
 # Thoughts
 
-### The Phd subject : in the scope of [AMPLIFIER](https://perso.liris.cnrs.fr/mathieu.lefort/jobs/subject_M2_amplifier.pdf project)
+## The Phd subject : in the scope of [AMPLIFIER](https://perso.liris.cnrs.fr/mathieu.lefort/jobs/subject_M2_amplifier.pdf) project
+I noticed that you did not talk much about the amplifier project. So I did some research on the internet and I found you project application.
+
 The first paragraph talks about what the work is about and the second one is the implications, the outcomes and goals. In the second paragraph, it's said that machine learning is "often used with classical methods developped in computer vision and natural language processing,..." What kind of classical methods are they referring to? Moreover, there is a part when it says that the impact of the merging is still not well understood. What do they mean?
 
 Besides, they are planning to work with this start up [hoomano](http://hoomano.com/en/?noredirect=en_US) but we don't exactly in what way they are going to perform it. The only clue we have is the fact that this company activities consist in integrating artificial intelligence in social robots, including pepper. 
@@ -42,3 +44,5 @@ This work adresses as its title suggests, to what extent seeing can be considere
 
 ### [Action-dependent perceptual invariants: From ecological to sensorimotor approaches](http://nitens.org/docs/invariants_concog.pdf)[]
 Talks in the abstract about perceptual information modulated by actions. This artcile [Perceptual resonance: action-induced modulation of perception](https://www.sciencedirect.com/science/article/pii/S1364661307001520) sheds light on this concept by telling there is an bi-directional relationship between perception and action
+
+## Multimodal merging for social robots : in the scope of [AMPLIFIER](https://perso.liris.cnrs.fr/mathieu.lefort/jobs/subject_M2_amplifier.pdf) project

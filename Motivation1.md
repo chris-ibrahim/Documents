@@ -2,10 +2,6 @@ Qu'est ce que cette thèse repésente pour toi
 
 What are sensori-motor contingencies
 
-Why are epistemic action non trivial? Didn't the previous model include action to obtain more information about the environment as part of a pragmatic action? Why isn't that the case?
-
-This article [On Distinguishing Epistemic from Pragmatic Action](https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog1804_1) in the second paragraph of the abstract, is the answer. Actually, a pragmatic action has to change the world, epistemic actions do not have any direct impact on the world.
-
 # Thoughts
 
 ## The Phd subject : in the scope of [AMPLIFIER](https://perso.liris.cnrs.fr/mathieu.lefort/jobs/subject_M2_amplifier.pdf) project
@@ -23,7 +19,7 @@ As what I can see in these [slides](http://hoomano.com/wp-content/uploads/sites/
 I've just realized that the activity detecton application proposed by Dr Lera is in fact multi-modal perception and merging where the sensory data are sound, images (emotion and object) and time. Try to talk about that with your recruiter because I think that will interest them a lot. The difference here is that it doesn't thoroughly  follow any psychological cognitivist paradygm.
 
 ### [Jean-Charles Quinton Curriculum](http://quintonj.free.fr/index.php/Main/Vita)
-I was very impressed by it. I've never met someone at the interface of both disciplines psychology and artificial intelligence even though I knew that there were quite complementary.
+I was very impressed by it. I've never met someone at the interface of both disciplines psychology and artificial intelligence even though I knew that there were quite complementary. And again, I saw his curriculum in ieeexplore when checking out his article on Dynamic competition in perceptual decision making, and again,  it was astounding how many neuroscience and pyschology related subject he is studying.
 
 Seeing your resume make want to ask you advises on how you mqnged to get there and if you exactly planned beforehand to do what you are currently doing because as of now, I am really interested on doing that, I don't know if I want to teach psychology but I sure would like to know as much as someone who'd be able to teach it
 
@@ -38,6 +34,9 @@ He studies AMAS just the way you like it.
 Base optimal mirroring of others emotion
 
 ### [On Distinguishing Epistemic from Pragmatic Action](https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog1804_1) [4]
+Why are epistemic action non trivial? Didn't the previous model include action to obtain more information about the environment as part of a pragmatic action? Why isn't that the case?
+
+In the second paragraph of the abstract, is the answer. Actually, a pragmatic action has to change the world, epistemic actions do not have any direct impact on the world.
 
 ### [A sensorimotor account of vision and visual consciousness](http://nivea.psycho.univ-paris5.fr/OREGAN-NOE-BBS/ORegan;Noe.BBS.pdf)[]
 This work adresses as its title suggests, to what extent seeing can be considered as an action which allows an individual to navigate in an inner representation of the external world.
@@ -45,4 +44,29 @@ This work adresses as its title suggests, to what extent seeing can be considere
 ### [Action-dependent perceptual invariants: From ecological to sensorimotor approaches](http://nitens.org/docs/invariants_concog.pdf)[]
 Talks in the abstract about perceptual information modulated by actions. This artcile [Perceptual resonance: action-induced modulation of perception](https://www.sciencedirect.com/science/article/pii/S1364661307001520) sheds light on this concept by telling there is an bi-directional relationship between perception and action
 
+### [Humans integrate visual and haptic information in a statistically optimal fashion](http://www.cns.nyu.edu/~david/courses/perceptionGrad/Readings/ErnstBanks-Nature2002.pdf)[2]
+
 ## Multimodal merging for social robots : in the scope of [AMPLIFIER](https://perso.liris.cnrs.fr/mathieu.lefort/jobs/subject_M2_amplifier.pdf) project
+
+Autonomous learning a multi-sensory data merging
+
+In the second paragraph, the relevance of each data has to be assessed according to the precision of its medium, the current stimulus, the task, etc. Do we haave an example about that?
+Test-it in psychopyshics experiments. What is a psychophysic experiment? and see how it can improve human robot interaction. Aren't the advantage clear enough for them to not have to check what it is really about?
+
+In the third paragraph, what do they mean by "research questions on multimodal attention"?
+
+I just saw the required profile in the offer and it was quite exactly what I am already doing, this offer seems to be the best that I could find. I still cannnot believe it. And the last sentence is just **flames**!
+
+### [Dynamics of pattern formation in lateral-inhibition type neural fields]()[1]
+It is about pure neuroscience science wave pattern dynamics. Other than that I did not understand anything else. But that's exactly what's great with this article. Just allow me to explain.
+
+This paper was wriiten by athieu lefort, whichis in the SMA team and he is doing neuroscience by studying cortical paradygm transposed in computer science
+
+### Equipe [SMA LIRIS](https://liris.cnrs.fr/equipes?id=74) du pôle [Interaction et cognition](https://liris.cnrs.fr/axes?id=71)
+Interaction et cognition, wich means that you might actually will be able to perform your thesis in neuroscience with this offer! That's completely great!
+
+Ce pôle vvise à développer des systèmes/modèles informatiques ayant des capacités d'intelligence individuelle et collective et présentant des propriétés auto* (organisation, adaptation, développement, cognitif, etc)
+
+Il étudie également le complee machine/utilisateur en tant que système co-évoluant. Il l'étudie dans le cadre de la co-construction d'EAIH (Environnement informatiques pour l'apprentissage humain).
+
+**Pensée :** Je viens de me dire que une personne intelligente n'est pas celle qui détient le plus d'information mais celle qui s'est le mieux agir avec le peu d'information qu'ils ont et sont le plus capable de trouver des moyens pour en accumuler davantage

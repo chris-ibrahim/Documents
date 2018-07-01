@@ -60,9 +60,17 @@ In the third paragraph, what do they mean by "research questions on multimodal a
 I just saw the required profile in the offer and it was quite exactly what I am already doing, this offer seems to be the best that I could find. I still cannnot believe it. And the last sentence is just **flames**!
 
 ## [Dynamics of pattern formation in lateral-inhibition type neural fields]()[1]
+According to [wikipedia](https://en.wikipedia.org/wiki/Lateral_inhibition) in neurobiology, lateral inhibition is the capacity of an excited neuron to reduce the activity of its neighbors
+
+Neural fields, according to [scholarpedia](http://www.scholarpedia.org/article/Neural_fields) are "tissue level models that describe the spatiotemporal evolution of coarse grained variables such as synaptic or firing rate activity in populations of neurons."
+
 It is about pure neuroscience science wave pattern dynamics. Other than that I did not understand anything else. But that's exactly what's great with this article. Just allow me to explain.
 
+## [Cortically inspired paradigms for multimodal processing](https://hal.inria.fr/hal-00859986/document)[3]
 This paper was wriiten by athieu lefort, whichis in the SMA team and he is doing neuroscience by studying cortical paradygm transposed in computer science
+
+## [The Cat is on the Mat. or is it a Dog? Dynamic Competition in Perceptual Decision Making](https://ieeexplore.ieee.org/document/6590012/)
+
 
 ## Equipe [SMA LIRIS](https://liris.cnrs.fr/equipes?id=74) du pôle [Interaction et cognition](https://liris.cnrs.fr/axes?id=71)
 Interaction et cognition, wich means that you might actually will be able to perform your thesis in neuroscience with this offer! That's completely great!
@@ -74,6 +82,8 @@ Il étudie également le complexe machine/utilisateur en tant que système co-é
 **Pensée :** Je viens de me dire que une personne intelligente n'est pas celle qui détient le plus d'information mais celle qui s'est le mieux agir avec le peu d'information qu'ils ont et sont le plus capable de trouver des moyens pour en accumuler davantage
 
 L'équipe SMA est encore plus imprésionnante. Il étudie exactement ce que tu souhaites notamment les sciences cognitives en aborant la question de l'intelligence et de l'intelligibilité de l'information avec une vision constructiviste c'est à dire que les réprésentations sont construites dynamiquement par le système informatique à partir de son expérience d'interaction avec son environnement. Et ils veulent concevoir des systèmes socialement intelligents.
+
+Un chercheur de cette équipe a remporté le prix du meilleur papier lors de la [JFSMA](https://pfia2017.greyc.fr/jfsma/presentation).
 
 ## Le laboratoire commun [behaviors.ai](http://behaviors.ai/)
 porté par l'équipe SMA du LIRIS et par l'entreprise [Hoomano](http://hoomano.com/en/?noredirect=en_US)

@@ -17,20 +17,31 @@ Moreover the phd position would rather get someone who's ever worked with pepper
 
 As what I can see in these [slides](http://hoomano.com/wp-content/uploads/sites/3/2018/02/FICHE_PRODUIT_FLEX_WORKER.pdf), in the 2nd page  on the + Hoomano chart, what they did with pepper for they client look like pretty much what we did in our PGE with Ziggy for Eurecia. So you are going to have to talk about it to them, so they know that you already did quite a similar work.
 
+And here are some other partners that you might have missed [CRNL](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjWwdGh0YDcAhUO36QKHfEPBwAQFggoMAA&url=https%3A%2F%2Fcrnl.univ-lyon1.fr%2F&usg=AOvVaw3cZdP-f7yt8PG4X283eJzf) (Centre de Recherche en Neurosciences de Lyon), [LPNC - Laboratoire de Psychologie et NeuroCognition](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjR6bzm0YDcAhVBiqQKHSTgAToQjBAILzAB&url=https%3A%2F%2Flpnc.univ-grenoble-alpes.fr%2FLPNC%2C1&usg=AOvVaw1T8KOpw4EgIWE4vj30G-Z-), [Gipsa-Lab](http://www.gipsa-lab.grenoble-inp.fr/le-laboratoire/presentation.php)
+
 ## Relation with your current intership
 I've just realized that the activity detecton application proposed by Dr Lera is in fact multi-modal perception and merging where the sensory data are sound, images (emotion and object) and time. Try to talk about that with your recruiter because I think that will interest them a lot. The difference here is that it doesn't thoroughly  follow any psychological cognitivist paradygm.
 
+Also say that you work wwith pepper and qt robot from lux ai, and to **Mathieu** that you are doing deep learning
+
 ## [Jean-Charles Quinton Curriculum](http://quintonj.free.fr/index.php/Main/Vita)
-I was very impressed by it. I've never met someone at the interface of both disciplines psychology and artificial intelligence even though I knew that there were quite complementary. And again, I saw his curriculum in ieeexplore when checking out his article on Dynamic competition in perceptual decision making, and again,  it was astounding how many neuroscience and pyschology related subject he is studying.
+LJK laboratory : laboratoire d'informatique et de mathématiques appliqués
+
+I was very impressed by it (PDF English version [here](http://quintonj.free.fr/uploads/Main/Vita/Quinton_CV_en.pdf)). I've never met someone at the interface of both disciplines psychology and artificial intelligence even though I knew that there were quite complementary. And again, I saw his curriculum in ieeexplore when checking out his article on Dynamic competition in perceptual decision making, and again,  it was astounding how many neuroscience and pyschology related subject he is studying.
 
 Seeing your resume make want to ask you advises on how you mqnged to get there and if you exactly planned beforehand to do what you are currently doing because as of now, I am really interested on doing that, I don't know if I want to teach psychology but I sure would like to know as much as someone who'd be able to teach it
 
-I don't know what kind of probabilities you study in statistics life science but does it have something to do with belief thoery and [probalistic logics](https://en.wikipedia.org/wiki/Probabilistic_logic)? Because I have a supervisor for a thesis a applied for which were studying it and I thought It was a very interesting domain as its about formalizing logic model.
+I don't know what kind of probabilities you study in statistics life science but does it have something to do with belief thoery and [probalistic logics](https://en.wikipedia.org/wiki/Probabilistic_logic)? Because I have a supervisor for a thesis I applied for who is studying it and I thought It was a very interesting domain as its about formalizing logic model.
 
 And you also have some expertise in psychology, to what extent does the worked for this phd will be using results in neursciences and cognitive psychology. This is a part that is really interest me. +Talk about the papers on 
 
-## [Mathieu Lefort Curriculum](https://liris.cnrs.fr/membres?idn=mlefort)
+I have to highlight his role on the project
+
+## [Mathieu Lefort Curriculum](https://liris.cnrs.fr/membres?idn=mlefort)*
+LIRIS laboratory
 He studies AMAS just the way you like it.
+
+I have to highlight his role on the project
 
 ## [Action understanding and active inference](https://www.fil.ion.ucl.ac.uk/~karl/Action%20understanding%20and%20active%20inference.pdf) [3]
 Base optimal mirroring of others emotion
@@ -52,6 +63,8 @@ Talks in the abstract about perceptual information modulated by actions. This ar
 
 Autonomous learning a multi-sensory data merging
 
+Try to ask them how did the intership go
+
 In the second paragraph, the relevance of each data has to be assessed according to the precision of its medium, the current stimulus, the task, etc. Do we haave an example about that?
 Test-it in psychopyshics experiments. What is a psychophysic experiment? and see how it can improve human robot interaction. Aren't the advantage clear enough for them to not have to check what it is really about?
 
@@ -70,12 +83,13 @@ It is about pure neuroscience science wave pattern dynamics. Other than that I d
 This paper was wriiten by athieu lefort, whichis in the SMA team and he is doing neuroscience by studying cortical paradygm transposed in computer science
 
 ## [The Cat is on the Mat. or is it a Dog? Dynamic Competition in Perceptual Decision Making](https://ieeexplore.ieee.org/document/6590012/)
+Small perceptual decision-mqking tasks are solved by michio kaku's administration analogy 
 
 
 ## Equipe [SMA LIRIS](https://liris.cnrs.fr/equipes?id=74) du pôle [Interaction et cognition](https://liris.cnrs.fr/axes?id=71)
 Interaction et cognition, wich means that you might actually will be able to perform your thesis in neuroscience with this offer! That's completely great!
 
-Ce pôle vvise à développer des systèmes/modèles informatiques ayant des capacités d'intelligence individuelle et collective et présentant des propriétés auto* (organisation, adaptation, développement, cognitif, etc)
+Ce pôle vise à développer des systèmes/modèles informatiques ayant des capacités d'intelligence individuelle et collective et présentant des propriétés auto* (organisation, adaptation, développement, cognitif, etc)
 
 Il étudie également le complexe machine/utilisateur en tant que système co-évoluant. Il l'étudie dans le cadre de la co-construction d'EAIH (Environnement informatiques pour l'apprentissage humain
 

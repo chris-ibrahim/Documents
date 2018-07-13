@@ -65,7 +65,7 @@ Autonomous learning a multi-sensory data merging
 
 Try to ask them how did the intership go
 
-In the second paragraph, the relevance of each data has to be assessed according to the precision of its medium, the current stimulus, the task, etc. Do we haave an example about that?
+In the second paragraph, the relevance of each data has to be assessed according to the precision of its medium, the current stimulus, the task, etc. Do we have an example about that?
 Test-it in psychopyshics experiments. What is a psychophysic experiment? and see how it can improve human robot interaction. Aren't the advantage clear enough for them to not have to check what it is really about?
 
 In the third paragraph, what do they mean by "research questions on multimodal attention"?
@@ -105,3 +105,73 @@ porté par l'équipe SMA du LIRIS et par l'entreprise [Hoomano](http://hoomano.c
 Some questions thereby arise. Is the Phd going to be in this laboratory? If it is the case, why the phd and the laboratory did not begin the same year?
 
 In the news page, it was said in february that this lab was looking for research engineers to improve social robotics
+
+# Interview feedback/aftermath
+
+I don't know if they really appreciated the interview we performed yesterday but yet, I think that I did quite a lot of mistakes. Therefore, I'd like to highlight here all the interesting points I noticed about my performance at this interview, whether good or bad. Maybe you should have asked them why they chose you and that looking for a phd a hell of a war.
+
+## The papers
+
+### Bad
+
+You did not talk much about the papers while you spent like all of your time reading their papers. You were not able to drive the conversation towards it when I would have been great if you'd have been able to make a discussion about their related papers. THat's why this seemed to be very disappoiting.
+
+### Good
+
+
+
+
+
+## Neurosciences and Maths
+
+### Bad
+
+You did not manage to tell them how much you'd like to study maths, neurosciences, psychology. When they (M Quinton) asked you if you did some differential equation applied to neural field, you just said no without elaborating a little by telling them that it is a discipline which really appeals you, that you went to many conferences, you read books about it, watched videos about it, that it is like a hobby. 
+
+You could have said that the first time you learned about neural fields was in one of the article proposed in the phd. And again, when M. Quinton asked you if you understood the importance of merging, you did say that you read it in the papers but did not say where, so that's quite a pity because if you did tell him from which paper you got the info, they would have been able to comment more about what you  said
+
+### Good
+
+You did talk about the papers 
+
+## Internship and Pepper
+
+### Bad
+
+You did not insist enough with the fact that you were working with pepper in your internship and you are using it with ros. So it's another interesting way to work with pepper that you should have emphasized, even if you already did tell them about your large scale project with this robot. And it would have been also great if you had elaborate more on your current intership because you did not talk much about it.
+
+You did not manage to tell them about the tye of path planning which is used in kineo
+
+### Good
+
+You explained quite well what you did in the large scale project (LGS)
+
+You managed to recall the name voronoi
+
+## Your motivation to do a phd
+
+### Good
+
+You managed to tell them why about your interest in psychology and neuroscience when talking about you motivation but again, it's too bad you did not tell them about the video you saw, the books you read, and the conference you met.
+
+You really tried to prepare this interview as well as you can. So one way or another, it probably reflected in your speech.
+
+## Your internship schedule
+
+### Bad
+
+You did not tell them that autonomy is what you were looking for when M. Quinton asked you what you would do if yo were hired the next day, how would you manage your schedule. The answer you gave was quite vague and showed that you weren't ready for the question because you replied with a schedule in the scale of years (do psychological, neurosciences research, then go to the actual phd then implement)
+
+### Good
+
+You did answer the question
+
+## SMA
+
+### Good
+
+You did explain them that you had a great project that you did pretty well
+
+### Bad
+
+Maybe you should have exained more about it
